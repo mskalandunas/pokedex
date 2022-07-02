@@ -1,0 +1,27 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "A Pokédex implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskalandunas/pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mskalandunas/pokedex/issues"
+  },
+  "homepage": "https://github.com/mskalandunas/pokedex#readme",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
