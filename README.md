@@ -13,3 +13,4 @@ A Pokédex implementation.
   - Adventurers will most likely not be sitting at a computer when seeing a pokemon in the wild, so the UX should support that
 - Make sure data is up-to-date when online
   - Because trainers and adventurers may be traveling through areas with poor service, we may want to pre-fetch data as much as possible so they have access to a wide range of data when they're working offline
+- Users should be able to mark pokemon as caught
